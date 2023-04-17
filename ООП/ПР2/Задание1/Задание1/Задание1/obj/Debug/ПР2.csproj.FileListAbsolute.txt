@@ -1,0 +1,66 @@
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.AssemblyReference.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.GenerateResource.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.exe
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.pdb
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.pdb
+C:\Users\Anatoliy\Desktop\Папки\Уроки\ООП\ПР2\Задание1\Задание1\Задание1\obj\Debug\Task1.Form1.resources
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.pdb
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Task1.Form1.resources
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.exe
+C:\Users\user\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.pdb
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.pdb
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.AssemblyReference.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Task1.Form1.resources
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.GenerateResource.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.exe
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.pdb
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.pdb
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.AssemblyReference.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Task1.Form1.resources
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.GenerateResource.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.exe
+C:\Users\Anatoliy\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.pdb
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.pdb
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Task1.Form1.resources
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.exe
+C:\Users\user\Desktop\Папки\Уроки\OOP Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.pdb
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.exe
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\bin\Debug\Задание1.pdb
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Task1.Form1.resources
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\ПР2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.exe
+C:\Users\User\Desktop\OOП Оганес\ПР2\Задание1\Задание1\Задание1\obj\Debug\Задание1.pdb
